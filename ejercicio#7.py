@@ -1,0 +1,5 @@
+hora = int(input("Hora de llegada (0-23): "))
+if 6 <= hora <= 11: print("Agendado en horario de mañana") 
+elif 12 <= hora <= 17: print("Agendado en horario de tarde") 
+elif 18 <= hora <= 22: print("Agendado en horario de noche") 
+else: print("Fuera de horario") 
