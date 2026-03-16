@@ -1,4 +1,0 @@
-git clone (URL) 
-git add (nombre del archivo) 
-git commit -m "(mensaje)" 
-git push -u origin (nombre de rama: MAIN/ANYTHING) 
